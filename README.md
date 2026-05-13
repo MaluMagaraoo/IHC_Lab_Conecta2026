@@ -6,7 +6,7 @@ Conecta CEUB 2026
 **Profa. Kadidja Valéria de Oliveira**  
 **Conecta CEUB**: [https://institucional.uniceub.br/conecta2026](https://institucional.uniceub.br/conecta2026)
 
-## Planejamento da Oficina: IHC Lab (14h30 – 16h00)
+## Planejamento da Oficina: IHC Lab (14h30 – 16h30)
 
 **Tema Central:** Desafios de IHC no Brasil (2025-2035), Acessibilidade Digital e Inovação Educacional
 
