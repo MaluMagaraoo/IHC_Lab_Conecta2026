@@ -6,7 +6,7 @@ Conecta CEUB 2026
 
 **Profa.:** Kadidja Valéria de Oliveira  
 
-**Aluno(a):** Maria Luiza Magarão 
+**Aluna:** Maria Luiza Magarão 
 
 **Curso:** Ciência da Computação 
 
