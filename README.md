@@ -5,7 +5,9 @@ Conecta CEUB 2026
 ## Oficina "IHC Lab: Challenges & Desafios"
 
 **Profa.:** Kadidja Valéria de Oliveira  
+
 **Aluno(a):** Maria Luiza Magarão 
+
 **Curso:** Ciência da Computação 
 
 **Conecta CEUB:** https://institucional.uniceub.br/conecta2026
