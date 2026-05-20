@@ -44,6 +44,6 @@ A arquitetura da solução baseia-se em:
 
 ### 🔗 Links de Referência
 
-* **Base Analítica:** [Diretrizes do eMAG (Governo Eletrônico)](https://emag.governoeletronico.gov.br/)
-* **Evento:** [Conecta CEUB 2026](https://institucional.uniceub.br/conecta2026)
-* **Referência Teórica:** [GranDIHC-BR - Desafios de IHC no Brasil (SBC)](https://sol.sbc.org.br/)
+* [Diretrizes do eMAG (Governo Eletrônico)](https://emag.governoeletronico.gov.br/)
+* [Conecta CEUB 2026](https://institucional.uniceub.br/conecta2026)
+* [GranDIHC-BR - Desafios de IHC no Brasil (SBC)](https://sol.sbc.org.br/)
