@@ -1,46 +1,47 @@
 # IHC_Lab_Conecta2026
+
 Conecta CEUB 2026
 
-# Oficina "IHC Lab: Challenges & Desafios"
+## Oficina "IHC Lab: Challenges & Desafios"
 
-**Profa. Kadidja Valéria de Oliveira**  
-**Conecta CEUB**: [https://institucional.uniceub.br/conecta2026](https://institucional.uniceub.br/conecta2026)
+**Profa.:** Kadidja Valéria de Oliveira  
+**Aluno(a):** Maria Luiza Magarão 
+**Curso:** Ciência da Computação 
 
-## Planejamento da Oficina: IHC Lab (14h30 – 16h30)
+**Conecta CEUB:** https://institucional.uniceub.br/conecta2026
 
-**Tema Central:** Desafios de IHC no Brasil (2025-2035), Acessibilidade Digital e Inovação Educacional
+---
 
-### 1. Abertura e Contextualização (10 min) – 14h30 às 14h40
-- **Apresentação do GranDIHC-BR:** Introdução aos sete grandes desafios da IHC no Brasil para o decênio 2025-2035, focando em ciência, tecnologia e educação para o bem-estar humano.  
-- **Eixos Estratégicos:** Breve exposição dos temas:
-  - Ética / IA
-  - Decolonialidade
-  - Humano-dados
-  - Tecnologias emergentes
-  - Abordagens teóricas
-  - Impactos socioculturais
-  - Inclusão
+## Projeto: Redesign Inclusivo de Chatbots Governamentais (GovBot Acessível)
 
-### 2. Políticas Públicas e Estudos de Caso (10 min) – 14h40 às 14h50
-- **Acessibilidade na Prática:** Explicação sobre o eMAG (Governo Eletrônico) e o WCAG adaptado como ferramentas para superar barreiras em portais governamentais e apps de saúde.  
-- **Debate Rápido:** Quais barreiras de acessibilidade ainda persistem no cenário brasileiro atual?
+### 📌 Contexto
 
-### 3. Pesquisa Orientada em Grupo (20 min) – 14h50 às 15h10
-- **Dinâmica:** Divisão dos 50 participantes em grupos (sugestão: 10 grupos de 5 pessoas).  
-- **Atividade:** Os grupos acessam a Biblioteca SOL da Sociedade Brasileira de Computação (SBC) para identificar eventos, jogos, artigos ou projetos relacionados a um dos eixos estratégicos escolhidos.
+Este projeto é parte integrante da oficina "IHC Lab: Challenges & Desafios" realizada no evento Conecta CEUB 2026. Ele fundamenta-se nas diretrizes do **GranDIHC-BR**, que delineia os sete grandes desafios de Interação Humano-Computador no Brasil para o decênio 2025-2035, priorizando ciência, tecnologia e educação para o bem-estar humano. O trabalho utiliza especificamente os eixos estratégicos de **Inclusão** e **Humano-dados**, visando mitigar a exclusão digital e garantir um atendimento público empático e acessível.
 
-### 4. Desafio Prático: Criação de Protótipos (30 min) – 15h10 às 15h40
-- **Tarefa:** Criar um jogo educacional (ou protótipo) que represente o desafio de IHC estudado.  
-- **Formatos sugeridos:**
-  - Análise de Jogos Sérios de IHC
-  - Storyboard ou wireframe de uma interface inclusiva
-  - Quiz interativo (Kahoot, Genially) sobre barreiras de acessibilidade
-  - Storytelling gamificado focado em justiça social e decolonização
+### ⚠️ O Problema: Sobrecarga Cognitiva e Exclusão Digital
 
-### 5. Pitch e Feedback Coletivo (15 min) – 15h40 às 15h55
-- **Apresentação Oral:** Cada grupo realiza um pitch rápido (90 segundos) defendendo sua [proposta](https://docs.google.com/document/d/1eBZTBJyVoVI4FS8-QRU2AFrNB6xnv76or6kHX5uOz00/edit?usp=sharing).  
-- **Critérios de Avaliação:** Inovação, relevância social e alinhamento com as políticas públicas brasileiras.
+A transformação digital dos serviços públicos no Brasil (como INSS, Receita Federal e Caixa Econômica) frequentemente esbarra na falta de acessibilidade de seus assistentes virtuais (chatbots). O cenário atual gera extrema frustração, especialmente para cidadãos idosos ou com baixo letramento digital, transformando ferramentas que deveriam facilitar o acesso em labirintos burocráticos.
 
-### 6. Encerramento e Orientações (5 min) – 15h55 às 16h00
-- **Síntese final:** Reflexão sobre a prática de IHC socialmente responsável no cenário nacional.  
-- **Entrega:** Orientações para o relatório (síntese da pesquisa + descrição do jogo) e convite para projetos de iniciação científica ou extensão.
+Com base nas análises de IHC, os principais entraves identificados são:
+
+* **Linguagem Inacessível e Jargões:** Uso excessivo de termos jurídicos e técnicos que ferem as diretrizes de clareza do eMAG (Modelo de Acessibilidade em Governo Eletrônico).
+* **Sobrecarga Cognitiva:** Menus infinitos, opções numéricas complexas e longos blocos de texto que confundem o cidadão e dificultam a tomada de decisão.
+* **Falta de Empatia Sistêmica (Ética / IA):** Sistemas rígidos de processamento de linguagem que não compreendem a linguagem natural e coloquial, frequentemente culpabilizando o usuário por erros de digitação ("Desculpe, não entendi").
+
+### 💡 A Solução
+
+A solução proposta consiste em um **Storyboard e Protótipo de Interface** que reverte a lógica do atendimento robotizado para uma experiência humanizada, conversacional e direta. O projeto mapeou a jornada do usuário (ex: Dona Maria em busca de informações sobre a aposentadoria) para aplicar boas práticas de IHC.
+
+A arquitetura da solução baseia-se em:
+
+* **Acesso Direto e "Zero Fricção":** Interface simplificada com alto contraste (seguindo diretrizes WCAG) e botões de ação diretos (ex: Sim/Não), substituindo a digitação obrigatória de comandos numéricos.
+* **Multimodalidade e Inclusão:** Implementação de um botão claro e acessível de entrada e saída por voz, garantindo autonomia para idosos, pessoas com deficiência visual ou dificuldades de leitura.
+* **Antecipação de Contexto (Humano-dados):** Uso inteligente da base de dados governamental para antecipar a necessidade do cidadão ao iniciar o chat, reduzindo o tempo de interação e a carga cognitiva.
+
+**Metodologia Visual:** Storyboarding da jornada do usuário focada em Cidadania e Justiça Social.
+
+### 🔗 Links de Referência
+
+* **Base Analítica:** [Diretrizes do eMAG (Governo Eletrônico)](https://emag.governoeletronico.gov.br/)
+* **Evento:** [Conecta CEUB 2026](https://institucional.uniceub.br/conecta2026)
+* **Referência Teórica:** [GranDIHC-BR - Desafios de IHC no Brasil (SBC)](https://sol.sbc.org.br/)
